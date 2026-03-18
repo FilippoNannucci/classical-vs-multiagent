@@ -1,0 +1,16 @@
+# datasets
+project_anomaly_detection/
+
+# pdf
+*.pdf
+
+# mac
+.DS_Store
+
+# jupyter checkpoints
+.ipynb_checkpoints/
+
+# python
+__pycache__/
+*.pyc
+.env
