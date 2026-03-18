@@ -9,8 +9,30 @@ project_anomaly_detection/
 
 # jupyter checkpoints
 .ipynb_checkpoints/
+profile_default/
+ipython_config.py
 
 # python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 .env
+.venv
+env/
+venv/
+
+# packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# type checkers
+.mypy_cache/
+.pyre/
